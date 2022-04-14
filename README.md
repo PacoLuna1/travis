@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/PacoLuna1/travis.svg?branch=main)](https://app.travis-ci.com/PacoLuna1/travis)
 # Django-and-Django-REST-Framework
 
 ## Setup
