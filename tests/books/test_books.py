@@ -5,7 +5,7 @@ from library.books.models import *
 @pytest.mark.parametrize(
   'nombre, apellido',
   (
-    ('Paco', 'Coelho'),
+    ('Paco', 'Luna'),
     ('Haruki', 'Murakami'),
     ('Jordi', 'Rosado'),
   )
